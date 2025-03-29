@@ -12,7 +12,7 @@ Windows 10
 
 ### Please provide a link to a minimal reproduction
 
-[https://github.com/PrinOrange/wrangle-bug-repo-1.git](https://github.com/bugs-report/wrangler-issue-8405.git)
+https://github.com/bugs-report/wrangler-issue-8405.git
 
 ### Describe the Bug
 
